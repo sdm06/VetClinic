@@ -53,7 +53,7 @@ Follow these instructions to set up the project locally.
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/Kishouu/VetClinic.git](https://github.com/Kishouu/VetClinic.git)
+git clone https://github.com/sdm06/VetClinic.git
 
 ```
 
