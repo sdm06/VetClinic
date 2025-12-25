@@ -135,5 +135,3 @@ Open your browser and navigate to:
 
 
 ---
-
-```
